@@ -16,6 +16,7 @@
 		151576AA27C95406005A559F /* Project5Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 151576A927C95406005A559F /* Project5Tests.swift */; };
 		151576B427C95406005A559F /* Project5UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 151576B327C95406005A559F /* Project5UITests.swift */; };
 		151576B627C95406005A559F /* Project5UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 151576B527C95406005A559F /* Project5UITestsLaunchTests.swift */; };
+		1577005527CAF75E00DB9A28 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1577005427CAF75E00DB9A28 /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		151576AF27C95406005A559F /* Project5UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Project5UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		151576B327C95406005A559F /* Project5UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Project5UITests.swift; sourceTree = "<group>"; };
 		151576B527C95406005A559F /* Project5UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Project5UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		1577005427CAF75E00DB9A28 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				1515769B27C95406005A559F /* Assets.xcassets */,
 				1515769D27C95406005A559F /* LaunchScreen.storyboard */,
 				151576A027C95406005A559F /* Info.plist */,
+				1577005427CAF75E00DB9A28 /* start.txt */,
 			);
 			path = Project5;
 			sourceTree = "<group>";
@@ -232,6 +235,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1515769F27C95406005A559F /* LaunchScreen.storyboard in Resources */,
+				1577005527CAF75E00DB9A28 /* start.txt in Resources */,
 				1515769C27C95406005A559F /* Assets.xcassets in Resources */,
 				1515769A27C95405005A559F /* Main.storyboard in Resources */,
 			);
